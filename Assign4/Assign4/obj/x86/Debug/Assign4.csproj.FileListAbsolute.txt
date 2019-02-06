@@ -1,0 +1,10 @@
+C:\Users\brian\Desktop\COIS 1020H\Assign4\Assign4\Assign4\bin\Debug\Assign4.exe
+C:\Users\brian\Desktop\COIS 1020H\Assign4\Assign4\Assign4\bin\Debug\Assign4.pdb
+C:\Users\brian\Desktop\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.exe
+C:\Users\brian\Desktop\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.pdb
+C:\Users\brian\Desktop\University\Past Courses\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.exe
+C:\Users\brian\Desktop\University\Past Courses\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.pdb
+C:\Users\brian\Desktop\University\Past Courses\COIS 1020H\Assign4\Assign4\Assign4\bin\Debug\Assign4.exe
+C:\Users\brian\Desktop\University\Past Courses\COIS 1020H\Assign4\Assign4\Assign4\bin\Debug\Assign4.pdb
+C:\Users\brian\Desktop\University\Past Courses\COIS 1020H\Assign4\Assign4\Assign4\obj\x86\Debug\Assign4.csprojResolveAssemblyReference.cache
